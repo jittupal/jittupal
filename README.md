@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm jitendra kumar</h1>
 <h3 align="center">A passionate technologi enthusiat</h3>
-<img src"https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" align="right" alt="coding" widh="400">
+<img src"![image](https://github.com/jittupal/jittupal/assets/128616359/78b9fcdc-24ad-488e-8549-915a903c0c2f)
+" align="right" alt="coding" widh="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
